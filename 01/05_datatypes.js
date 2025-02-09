@@ -14,12 +14,12 @@ let partner;
 const heros =['samosa','raga','saktiman'];
 console.log(heros)
 
-//objects 
+// objects 
 
 let myobj = {
     name : "shivam"
 }
 //functions 
 const myfunction = function(){
-    console.log('haoo');
+    console.log('helloo');
 }
