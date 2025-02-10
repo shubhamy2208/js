@@ -38,3 +38,16 @@ anothername= "shub"
 
 console.log(myname);
 console.log(anothername);
+
+
+let user1 = {
+    name : "shubham ",
+    id : "01"
+}
+
+let user2 =user1
+
+user2.name= "shb";
+
+console.log(user1.name);
+console.log(user2.name);
