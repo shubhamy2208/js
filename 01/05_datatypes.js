@@ -23,3 +23,18 @@ let myobj = {
 const myfunction = function(){
     console.log('helloo');
 }
+
+
+
+//memory types
+//Stack (primitive),Heap (non primitive) 
+
+
+
+let myname = "shubham"
+
+let anothername =myname
+anothername= "shub"
+
+console.log(myname);
+console.log(anothername);
